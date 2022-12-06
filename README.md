@@ -1,4 +1,4 @@
-<img src="https://www.utem.edu.my/templates/yootheme/cache/03/LogoUTeM-03999b95.png" width="200" align="right"></a>
+<img src="https://www.utem.edu.my/templates/yootheme/cache/03/LogoUTeM-03999b95.png" width="200" align="centre"></a>
 
 # AI4Engineers
 
